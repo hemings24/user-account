@@ -1,5 +1,5 @@
 # user-account
-CRUD for User Account
+Laravel CRUD for User Account
 
 1. Download user-account
 2. Copy folder to Laravel projects folder
