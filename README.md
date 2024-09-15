@@ -3,7 +3,7 @@ Laravel CRUD for User Account
 
 1. Download user-account
 2. Copy folder to Laravel projects folder
-3. Copy user-account\.env.example to user-account\.env
+3. Copy user-account\\.env.example to user-account\\.env
 4. Update .env MAIL_X values to preferred SMTP settings
 5. CLI: cd user-account
 6. composer install
